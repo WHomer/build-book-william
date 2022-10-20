@@ -1,0 +1,28 @@
+{
+  "changes": [
+  {
+    "type": "remove_playlist",
+    "attributes": {
+      "id": "3"
+    }
+  },
+  {
+    "type": "add_playlist",
+    "attributes": {
+      "id" : "54",
+      "owner_id" : "2",
+      "song_ids" : [
+        "8",
+        "32"
+      ]
+    }
+  },
+  {
+    "type": "add_song_to_playlist",
+    "attributes": {
+      "song_id": "1",
+      "playlist_id": "1"
+    }
+  }
+  ]
+}
